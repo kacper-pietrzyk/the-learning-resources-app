@@ -1,4 +1,4 @@
-# the-learning-resources-app
+# The Learning Resources App
 
 
 ## About The Project
